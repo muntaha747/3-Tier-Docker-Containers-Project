@@ -3,6 +3,9 @@
 # ignore .vscode folder
 .vscode
 
+# ignoring mysql data
+mysql-data/
+
 # dependencies
 /node_modules
 /.pnp
